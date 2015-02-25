@@ -1,7 +1,7 @@
-;;; molokai-theme.el --- A fruity color theme for Emacs.
+;;; molokai-theme.el
 ;;; modified from monokai-theme.el by Kelvin Smith
-;; Copyright Kelvin Smith (C) 2011-2013
-;;           H. Onur Solmaz (C) 2015
+;;; Copyright Kelvin Smith (C) 2011-2013
+;;;           H. Onur Solmaz (C) 2015
 
 ;; This program is free software; you can redistribute it and/or modify
 ;; it under the terms of the GNU General Public License as published by
@@ -16,10 +16,7 @@
 ;; You should have received a copy of the GNU General Public License
 ;; along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-;;; Commentary:
-;;
-;;
-;;; Credits:
+;;; Credits from monokai-emacs:
 ;;
 ;; Wimer Hazenberg created the original theme.
 ;; - http://www.monokai.nl/blog/2006/07/15/textmate-color-theme/

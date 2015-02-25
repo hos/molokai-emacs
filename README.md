@@ -9,6 +9,7 @@ the awesome `oneKelvinSmith/monokai-emacs`, with the colors borrowed from
 ## Installation
 
 Clone this repository to your Emacs configuration under `/themes`
+
     git clone https://github.com/hos/molokai-theme /path-to-your-emacs-config/themes
 
 Then add the following lines to your configuration, assuming your Emacs
