@@ -36,8 +36,6 @@
 ;;
 ;;; Code:
 
-(unless (>= 24 emacs-major-version)
-  (error "The molokai theme requires Emacs 24 or later!"))
 
 (deftheme molokai "The Molokai colour theme")
 
